@@ -11,11 +11,11 @@ Te cansaste de los vecinos con reaggeton hasta las 4 am? bueno, acá va un Bluet
 - Cables Dupont hembra-hembra (7 cables)
 
 #### Esquema de conexión
-ESP32-S3 (Pin)	Función	nRF24L01 (Pin)
-3.3V	Alimentación -->	VCC
-GND	Tierra -->	GND
-GPIO 12	SPI Clock -->	SCK
-GPIO 13	SPI MISO -->	MISO
-GPIO 11	SPI MOSI -->	MOSI
-GPIO 10	Chip Select (NSS) -->	CSN
-GPIO 9	Chip Enable --> 	CE
+ESP32-S3 (Pin)	Función	nRF24L01 (Pin) <br>
+3.3V	Alimentación -->	VCC <br>
+GND	Tierra -->	GND <br>
+GPIO 12	SPI Clock -->	SCK <br>
+GPIO 13	SPI MISO -->	MISO <br>
+GPIO 11	SPI MOSI -->	MOSI <br>
+GPIO 10	Chip Select (NSS) -->	CSN <br>
+GPIO 9	Chip Enable --> 	CE<br>
